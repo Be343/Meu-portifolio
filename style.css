@@ -1,0 +1,13 @@
+.container{
+background-color:crimson
+}
+#app{
+background-color: aquamarine;
+}
+#myCarousel{
+background-color: chartreuse;
+}
+#myCarousel img{
+    height: 300px;
+    margin:35px;
+}
